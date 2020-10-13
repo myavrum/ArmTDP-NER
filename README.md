@@ -4,7 +4,7 @@ A ~150K-token named entity corpus of Modern Eastern Armenian news articles from 
 
 The project was implemented by the collaboration of "Armenia National SDG Innovation Lab", "Armenian Treebank Project" and "UC Berkley's Armenian Linguists' network". 
 
-### The list of available tags and their descriptions are presented below:
+The list of available tags and their descriptions are presented below:
 
 * PERSON - People including fictional
 * NORP - Nationalities or religious or political groups
@@ -25,7 +25,7 @@ The project was implemented by the collaboration of "Armenia National SDG Innova
 * ORDINAL - “first”, “second”
 * CARDINAL - Numerals that do not fall under another type.
 
-### From the list of 18 types of named entities 17.632 labels were used:
+From the list of 18 types of named entities 17.632 labels were used:
 
 * PERSON – 3502
 * NORP – 823
