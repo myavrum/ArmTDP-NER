@@ -1,4 +1,4 @@
-# ArmNER-HY
+# ArmTDP-NER
 
 A ~150K-token named entity corpus of Modern Eastern Armenian news articles (1.949 text pieces) from several domains, manually annotated with a variety of entity types, useful for EDT and NER tasks. The annotated corpus follows the OntoNotes 5.0 markup scheme (with some modifications for Eastern Armenian-specific issues).
 
