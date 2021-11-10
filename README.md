@@ -1,8 +1,8 @@
 # ArmTDP-NER
 
-A ~150K-token named entity corpus of Modern Eastern Armenian news articles (1.949 text pieces) from several domains, manually annotated with a variety of entity types, useful for EDT and NER tasks. The annotated corpus follows the OntoNotes 5.0 markup scheme (with some modifications for Eastern Armenian-specific issues).
+A ~150K-token named entity corpus of Modern Eastern Armenian news articles (1.949 text pieces) from several domains, manually annotated with a variety of entity types, useful for EDT and NER tasks. The corpus follows the OntoNotes 5.0 markup scheme (with some modifications for Eastern Armenian-specific issues).
 
-The project was implemented by the collaboration of "Armenia National SDG Innovation Lab", "Armenian Treebank Project" and "UC Berkley's Armenian Linguists' network". 
+The corpus was developed by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University by the collaboration of "Armenia National SDG Innovation Lab" and "UC Berkley's Armenian Linguists' network".
 
 The list of available tags and their descriptions are presented below:
 
