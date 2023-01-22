@@ -48,5 +48,5 @@ From the list of 18 types of named entities 17.632 labels were used:
 
 ```
 Contributor: Yavrumyan, Marat M.
-Contact: myavrum@ysu.am
+Contact: marat.yavrumyan@gmail.com
 ```
