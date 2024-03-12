@@ -46,6 +46,20 @@ From the list of 18 types of named entities 17.632 labels were used:
 * ORDINAL – 608
 * CARDINAL – 1145
 
+## Citation
+
+```tex
+@misc{ArmTDP-NER,
+  title={{ArmTDP-NER}: Named Entity Corpus of Modern Eastern Armenian},
+  url={https://github.com/myavrum/ArmTDP-NER},
+  note={Corpus available from https://github.com/myavrum/ArmTDP-NER},
+  author={
+    Marat Yavrumyan
+    },
+  year={2020},
+}
+```
+
 ```
 Contributor: Yavrumyan, Marat M.
 Contact: marat.yavrumyan@gmail.com
