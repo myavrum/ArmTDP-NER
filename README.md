@@ -1,10 +1,12 @@
 # ArmTDP-NER
 
-A ~150K-token named entity corpus of Modern Eastern Armenian news articles (1.949 text pieces) from several domains, manually annotated with a variety of entity types, useful for EDT and NER tasks. The corpus follows the OntoNotes 5.0 markup scheme (with some modifications for Eastern Armenian-specific issues).
+A corpus of ~150K tokens with highly accurate manual annotations ("gold standard") of named entities, based on selected newspaper articles (1,949 pieces of text) in Modern Eastern Armenian from various domains, following the OntoNotes 5.0 markup scheme (with some modifications for Eastern Armenian-specific issues). Useful for EDT and NER tasks.
 
-The corpus was developed by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University by the collaboration of "Armenia National SDG Innovation Lab" and "UC Berkley's Armenian Linguists' network".
+The corpus was developed by the ArmTDP team led by Marat M. Yavrumyan at Yerevan State University, in collaboration with the 'Armenia National SDG Innovation Lab' and the 'UC Berkley's Armenian Linguists' network'.
 
-The list of available tags and their descriptions are presented below:
+A pre-trained NER model based on the corpus can be found under [Stanza models](https://stanfordnlp.github.io/stanza/ner_models.html) and has been provided by [Shake Hakobyan](https://github.com/stanfordnlp/stanza/issues/1206). 
+
+The corpus uses 18 named entity types, whose short descriptions are given below:
 
 * PERSON - People including fictional
 * NORP - Nationalities or religious or political groups
@@ -48,9 +50,11 @@ From the list of 18 types of named entities 17.632 labels were used:
 
 ## Citation
 
+Please cite this corpus as:
+
 ```tex
 @misc{ArmTDP-NER,
-  title={{ArmTDP-NER}: Named Entity Corpus of Modern Eastern Armenian},
+  title={{ArmTDP-NER}: Named Entity Corpus of Modern Eastern Armenian 1.0},
   url={https://github.com/myavrum/ArmTDP-NER},
   note={Corpus available from https://github.com/myavrum/ArmTDP-NER},
   author={
